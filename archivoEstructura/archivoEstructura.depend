@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527168622 source:d:\fragan\##clonegit\archivosenc\archivoestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+
