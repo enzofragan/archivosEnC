@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527174516 source:d:\fragan\##clonegit\archivosenc\archihtml\main.c
+	<stdio.h>
+	<stdlib.h>
+
